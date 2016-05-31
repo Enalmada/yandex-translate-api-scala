@@ -1,5 +1,7 @@
 # yandex-translate-api-scala [![Join the chat at https://gitter.im/Enalmada/yandex-translate-api-scala](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Enalmada/yandex-translate-api-scala?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.enalmada/yandex-translate-api-scala/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.enalmada/yandex-translate-api-scala)
 
+[![Join the chat at https://gitter.im/Enalmada/yandex-translate-api-scala](https://badges.gitter.im/Enalmada/yandex-translate-api-scala.svg)](https://gitter.im/Enalmada/yandex-translate-api-scala?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Provides a simple, unofficial, Scala client API for using Yandex Translate.
 
 Quickstart:
